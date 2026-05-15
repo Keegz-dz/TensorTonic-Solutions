@@ -17,6 +17,10 @@
   </a>
 </p>
 
+<!-- Animated demo GIF -->
+<p align="center">
+  <img src="assets/demo_tensor.gif" alt="Demo" width="800">
+</p>
 
 <p align="center">
   <sub>
