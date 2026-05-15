@@ -24,7 +24,7 @@
 
 <p align="center">
   <sub>
-    Each sub-directory contains a solution .py file and, where applicable, a concise .md document outlining the theoretical foundations of the algorithm.
+    Each sub-directory contains a solution .py file and a concise .md document outlining the theoretical foundations.
   </sub>
 </p>
 
